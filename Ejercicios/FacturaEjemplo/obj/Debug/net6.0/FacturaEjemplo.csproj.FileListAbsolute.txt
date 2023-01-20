@@ -1,0 +1,15 @@
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.csproj.AssemblyReference.cache
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.AssemblyInfoInputs.cache
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.AssemblyInfo.cs
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\bin\Debug\net6.0\FacturaEjemplo.exe
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\bin\Debug\net6.0\FacturaEjemplo.deps.json
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\bin\Debug\net6.0\FacturaEjemplo.runtimeconfig.json
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\bin\Debug\net6.0\FacturaEjemplo.dll
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\bin\Debug\net6.0\FacturaEjemplo.pdb
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.dll
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\refint\FacturaEjemplo.dll
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.pdb
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\FacturaEjemplo.genruntimeconfig.cache
+C:\Users\JADPA-26\source\repos\Ejercicios\FacturaEjemplo\obj\Debug\net6.0\ref\FacturaEjemplo.dll
