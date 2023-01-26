@@ -1,0 +1,17 @@
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\bin\Debug\net6.0-windows\Prestamos.exe
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\bin\Debug\net6.0-windows\Prestamos.deps.json
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\bin\Debug\net6.0-windows\Prestamos.runtimeconfig.json
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\bin\Debug\net6.0-windows\Prestamos.dll
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\bin\Debug\net6.0-windows\Prestamos.pdb
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.csproj.AssemblyReference.cache
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.frmPrestamos.resources
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.csproj.GenerateResource.cache
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.AssemblyInfoInputs.cache
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.AssemblyInfo.cs
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.dll
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\refint\Prestamos.dll
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.pdb
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\Prestamos.genruntimeconfig.cache
+C:\Users\JADPA-03\Desktop\ClasePractica260123\Prestamos\obj\Debug\net6.0-windows\ref\Prestamos.dll
